@@ -1,0 +1,12 @@
+# 运行依赖
+rapidocr-onnxruntime==1.4.4
+onnxruntime==1.28.0
+opencv-python==5.0.0.93
+numpy==2.5.1
+pillow==12.3.0
+Send2Trash==2.1.0
+pyclipper==1.4.0
+shapely==2.1.2
+
+# 打包用（非运行必需）
+# pyinstaller==6.21.0
